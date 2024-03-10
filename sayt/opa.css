@@ -1,0 +1,294 @@
+body{
+	margin: 0 auto;
+}
+p{	
+	color: #07870b;	
+}
+.containerphotik {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	
+}
+.agent	{
+	display: flex;
+	position: absolute;
+	z-index: 2;
+	top: 85%;
+	right: 45%;
+	font-size: 120px;
+	color: #ffffff;
+	font-family: sans-serif	;
+}
+
+.knopka1 {
+	position: absolute;
+	z-index: 3;
+	margin-left: 1500px;
+	font-size: 30px;
+	color: #5eeb34;
+	color: #5eeb34;
+	text-decoration: none;
+}
+.knopka1:hover{
+	border: solid 5px;
+	border-color: black;
+	border-radius: 20%;
+	color: #092900;
+	background-color:
+}
+.knopka1:active{
+	border: solid 5px;
+	border-color: black;
+	border-radius: 20%;
+	color: #092900;
+	background-color: darkred;
+}
+.knopka2 {
+	position: absolute;
+	z-index: 3;
+	margin-left: 1700px;
+	font-size: 30px;
+	color: #5eeb34;
+	text-decoration: none;
+}
+.knopka2:hover{
+	border: solid 5px;
+	border-color: black;
+	border-radius: 20%;
+	color: #092900;
+	background-color:
+}
+.knopka2:active{
+	border: solid 5px;
+	border-color: black;
+	border-radius: 20%;
+	color: #092900;
+	background-color: darkred;
+}
+.knopka3{
+	position: absolute;
+	z-index: 3;
+	margin-left: 1320px;
+	font-size: 30px; 
+	color: #5eeb34;
+	text-decoration: none;
+}
+.knopka3:hover{
+	border: solid 5px;
+	border-color: black;
+	border-radius: 20%;
+	color: #092900;
+	background-color:
+}
+.knopka3:active{
+	border: solid 5px;
+	border-color: black;
+	border-radius: 20%;
+	color: #092900;
+	background-color: darkred;
+}
+.cbutton{
+	position: absolute;
+	display: flex;
+	z-index: 3;
+}
+
+.cbutton1{
+	text-align: 	center;	
+}
+
+.cbutton2{
+	text-align: 	center;	
+}
+.cbutton3{
+	text-align: center;
+}
+.photkk{
+	width: 100%;
+	z-index: 1;
+}
+
+.primer{
+	width: 200px;
+	height: 200px;
+}
+.knopka{
+	color: #650599;
+
+}
+.zapis{
+	color: #665c04;
+	width: 100;
+	height: 50;
+}
+.ul li{
+	list-style: none;
+}
+.zagolovok{
+	font-size: 50px;
+}
+.bigspisok li{
+	list-style: none;
+}
+.podtext{
+	font-size: 30px;
+}
+
+.primer1{
+	display: flex;
+	float: left;
+	border-radius: 30%;
+	width: 470px;
+	height: 400px;
+
+}
+
+.csvadbatxt{
+	display: flex;
+	
+
+}
+
+.ckolhoz{
+	display: flex;
+}
+
+.primer2{
+	display: flex;
+	float: right;
+	border-radius: 30%;
+	width: 470px;
+	height: 400px;
+}
+
+.zagolovok{
+	text-align: center;
+}
+
+.primer3{
+	display: flex;
+	float: left;
+	border-radius: 30%;
+	width: 470px;
+	height: 400px;
+}
+
+.family{
+	display: flex;
+	margin-bottom: 400px;
+}
+
+
+.cfooter{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+}
+
+ul.ul li {
+    display: inline-block; // А вот эту команду я загуглил. Она ставит список горизонтально :)
+
+}
+
+.klientamtxt {
+	color: #66040b;
+	font-size: 25px;
+}
+.sotrudtxt {
+	color: #66040b;
+	font-size: 25px;
+}
+.doptxt {
+	color: #66040b;
+	font-size: 25px;
+}
+.soctxt{
+	color: #66040b;
+	font-size: 25px;
+}
+.dop{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin: 20px;
+}
+.klientam{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin: 20px;
+}
+.sotrud{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin: 20px;
+}
+.soc{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin: 20px;
+}
+
+footer{
+ background color: #177a32; 
+}
+
+.sampodval{
+    background: #177a32; // 
+
+}
+
+.podvallink{
+	margin-bottom: 10px;
+}
+.podvallinktxt{
+	font-family: sans-serif;
+	font-size: 19px;
+	color:#e3271e;
+	text-decoration: none
+}
+.podvallinktxt:hover{
+	color: #91031d;
+}
+.podvallinktxt:active{
+	color:darkblue;
+}
+
+.zapisbutton{
+	display: flex;
+	position: absolute;
+	margin-left: 650px;
+	margin-top: 550px;
+	font-size: 85px;
+	background-color: #da42f5;
+	border-radius: 20%;
+	color: #0dd632;
+	border: solid 2px;
+	border-color: black;
+	font-family: sans-serif;
+	cursor: pointer;
+}
+.lol{
+	color: #0dd632;
+	text-decoration: none;
+}
+.zapisbutton:hover {
+	background-color: #4f0d82;
+	border: solid 5px;
+	border-color: black;
+}
+.zapisbutton:active {
+	background-color: #f5425a;
+}
+
+.podtext{
+	font-family: sans-serif	;
+}
+.zagolovok{
+	font-family: sans-serif	;
+}
+

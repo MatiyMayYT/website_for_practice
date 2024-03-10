@@ -1,0 +1,61 @@
+p {
+	font-size: 50px
+}
+.button{
+	font-size: 50px
+}
+.h1{
+	font-size: 100px
+}
+.minibutton{
+	font-size: 30px
+}
+.knopka1{
+	position: absolute;
+	z-index: 3;
+	margin-left: 1500px;
+	font-size: 30px;
+}
+.cbutton1{
+	text-align: center;	
+}
+.cbutton{
+	position: absolute;
+	display: flex;
+	z-index: 3;
+}
+.containerphotik {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+.zapisbutton{
+	display: flex;
+	position: absolute;
+	margin-top: 550px;
+	margin-left: 640px;
+	font-size: 100px;
+}
+.lol{
+	text-decoration: none;
+	color:black;
+}
+.osnova{
+	display: flex;
+	flex-direction: column;
+}
+.agent{
+	font-size: 100px;
+}
+.adress{
+	display: flex;
+	justify-content: center;
+}
+.button:hover{
+display: flex;
+position: absolute;
+margin-top: 550px;
+margin-left: 640px;
+font-size: 100px;
+background-color: #b8b2b2;
+}

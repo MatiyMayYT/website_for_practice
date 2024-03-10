@@ -1,0 +1,26 @@
+p {
+	color: #07870b
+}
+
+.knopka{
+	color: #650599;
+}
+
+.imya {
+	font-size: 40;
+}
+.sostav li{
+	list-style: none;
+}
+.image{
+	width: 200px;
+	height: 200px;
+}
+.karta{
+	width: 500px;
+	height: 300px;
+}
+.podval{
+	color: #66040b;
+	font-size: 20px;
+}
